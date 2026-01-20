@@ -247,34 +247,31 @@ function page() {
                 }}
                 navigation={false}
                 modules={[Autoplay, Pagination, Navigation]}
-                className="mySwiper"
+                className="mySwiper swiper2"
               >
                 <SwiperSlide>
-                  <img className='w4' src="https://backend.kumaribank.com/storage/account_type/2024/02/kumari-gajjab-bachat-khata-4_1707806770.jpg" alt="" />
+                  <img className='w4 sliderimg' src="https://backend.kumaribank.com/storage/account_type/2023/12/img-20231126-wa0003_1702376539.jpg" alt="" />
                 </SwiperSlide>
                 <SwiperSlide>
-                  <img className='w4' src="https://backend.kumaribank.com/storage/account_type/2023/12/img-20231126-wa0003_1702376539.jpg" alt="" />
+                  <img className='w4 sliderimg' src="https://backend.kumaribank.com/storage/account_type/2023/04/sized-remit-ipo_1681714952.jpg" alt="" />
                 </SwiperSlide>
                 <SwiperSlide>
-                  <img className='w4' src="https://backend.kumaribank.com/storage/account_type/2023/04/sized-remit-ipo_1681714952.jpg" alt="" />
+                  <img className='w4 sliderimg' src="https://www.kumaribank.com/images/no-image.jpg" alt="" />
                 </SwiperSlide>
                 <SwiperSlide>
-                  <img className='w4' src="https://www.kumaribank.com/images/no-image.jpg" alt="" />
+                  <img className='w4 sliderimg' src="https://backend.kumaribank.com/storage/account_type/2023/04/sized-remit-ipo_1681714952.jpg" alt="" />
                 </SwiperSlide>
                 <SwiperSlide>
-                  <img className='w4' src="https://backend.kumaribank.com/storage/account_type/2023/04/sized-remit-ipo_1681714952.jpg" alt="" />
+                  <img className='w4 sliderimg' src="https://backend.kumaribank.com/storage/account_type/2023/04/sized-sabaiko_1681733387.jpg" alt="" />
                 </SwiperSlide>
                 <SwiperSlide>
-                  <img className='w4' src="https://backend.kumaribank.com/storage/account_type/2023/04/sized-sabaiko_1681733387.jpg" alt="" />
+                  <img className='w4 sliderimg' src="https://www.kumaribank.com/images/no-image.jpg" alt="" />
                 </SwiperSlide>
                 <SwiperSlide>
-                  <img className='w4' src="https://www.kumaribank.com/images/no-image.jpg" alt="" />
+                  <img className='w4 sliderimg' src="https://backend.kumaribank.com/storage/account_type/2023/04/sized-remit-ipo_1681714952.jpg" alt="" />
                 </SwiperSlide>
                 <SwiperSlide>
-                  <img className='w4' src="https://backend.kumaribank.com/storage/account_type/2023/04/sized-remit-ipo_1681714952.jpg" alt="" />
-                </SwiperSlide>
-                <SwiperSlide>
-                  <img className='w4' src="https://backend.kumaribank.com/storage/account_type/2023/04/sized-sabaiko_1681733387.jpg" alt="" />
+                  <img className='w4 sliderimg' src="https://backend.kumaribank.com/storage/account_type/2023/04/sized-sabaiko_1681733387.jpg" alt="" />
                 </SwiperSlide>
 
               </Swiper>

@@ -270,3 +270,8 @@ tr:nth-child(even) {
 .dropdown:hover .dropdown-content {
   display: block;
 }
+
+ .sliderimg{
+width: 200px !important;
+height: 200px !important;
+  }
