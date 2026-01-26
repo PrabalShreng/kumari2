@@ -250,10 +250,10 @@ function page() {
                 className="mySwiper swiper2"
               >
                 <SwiperSlide>
-                  <img className='w4 sliderimg' src="https://backend.kumaribank.com/storage/account_type/2023/12/img-20231126-wa0003_1702376539.jpg" alt="" />
+                  <img className='w4 sliderimg' src="https://backend.kumaribank.com/storage/account_type/2025/12/whatsapp-image-2025-12-17-at-30906-pm_1765965294.jpeg" alt="" />
                 </SwiperSlide>
                 <SwiperSlide>
-                  <img className='w4 sliderimg' src="https://backend.kumaribank.com/storage/account_type/2023/04/sized-remit-ipo_1681714952.jpg" alt="" />
+                  <img className='w4 sliderimg' src="https://backend.kumaribank.com/storage/account_type/2024/03/twinkle-ster-saving-website-banner-photo-copy1_1710848074.jpg" alt="" />
                 </SwiperSlide>
                 <SwiperSlide>
                   <img className='w4 sliderimg' src="https://www.kumaribank.com/images/no-image.jpg" alt="" />
